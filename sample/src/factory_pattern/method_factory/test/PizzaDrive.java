@@ -1,8 +1,8 @@
-package factory_pattern.advance_factory.test;
+package factory_pattern.method_factory.test;
 
-import factory_pattern.advance_factory.ChicagoStylePizzaStore;
-import factory_pattern.advance_factory.NYStylePizzaStore;
-import factory_pattern.advance_factory.Pizza;
+import factory_pattern.method_factory.ChicagoStylePizzaStore;
+import factory_pattern.method_factory.NYStylePizzaStore;
+import factory_pattern.method_factory.Pizza;
 import org.junit.jupiter.api.Test;
 
 public class PizzaDrive {

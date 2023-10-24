@@ -1,8 +1,4 @@
-package factory_pattern.advance_factory;
-
-import factory_pattern.simple_factory.CheesePizza;
-import factory_pattern.simple_factory.ClamPizza;
-import factory_pattern.simple_factory.PepperoniPizza;
+package factory_pattern.method_factory;
 
 public class NYStylePizzaStore extends PizzaStore{
 

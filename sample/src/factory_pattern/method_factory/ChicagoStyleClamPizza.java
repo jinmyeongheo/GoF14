@@ -1,6 +1,6 @@
-package factory_pattern.advance_factory;
+package factory_pattern.method_factory;
 
-public class ChicagoStylePepperoniPizza extends Pizza{
+public class ChicagoStyleClamPizza extends Pizza{
 
   @Override
   void prepare() {

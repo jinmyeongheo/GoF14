@@ -1,9 +1,9 @@
 package factory_pattern.simple_factory;
 
 public class SimplePizzaFactory {
-  Pizza pizza;
   // 피자를 만들쟈!
   public Pizza createPizza(String type) {
+    Pizza pizza = null;
 
   if(type.equals("pepperoni")){
     pizza = new PepperoniPizza();

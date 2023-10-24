@@ -1,4 +1,4 @@
-package factory_pattern.advance_factory;
+package factory_pattern.method_factory;
 
 import java.util.ArrayList;
 import java.util.List;
