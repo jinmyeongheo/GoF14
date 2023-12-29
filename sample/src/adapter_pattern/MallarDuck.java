@@ -1,5 +1,7 @@
 package adapter_pattern;
 
+import java.util.Arrays;
+
 public class MallarDuck implements Duck{
 
   @Override
